@@ -1,0 +1,53 @@
+/* ----- Legend Colors ----- */
+.color-normal { color: #e2e8f0; }
+.color-gold { color: #FBBF24; text-shadow: 0 0 1px #b45309; }
+.color-diamond { color: #60a5fa; }
+.color-rainbow { background: linear-gradient(135deg, #ff6b6b, #ffb347, #ffd966, #6bcb77, #4d9de0, #b980ea); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.color-beskar { color: #9ca3af; text-shadow: 0 0 1px #4b5563; }
+.color-galactic {
+    background: linear-gradient(135deg, #6366f1, #8b5cf6, #a78bfa, #3b82f6, #ec4899);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: 0 0 0.2em rgba(255,255,255,0.2);
+    -webkit-text-stroke: 0.5px rgba(255,255,255,0.2);
+}
+
+/* ----- Rarity Underlines ----- */
+.rarity-common {
+    text-decoration: underline;
+    text-decoration-color: #4ade80;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+.rarity-rare {
+    text-decoration: underline;
+    text-decoration-color: #60a5fa;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+.rarity-epic {
+    text-decoration: underline;
+    text-decoration-color: #c27eff;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+.rarity-legendary {
+    text-decoration: underline;
+    text-decoration-color: #fb923c;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+.rarity-mythic {
+    text-decoration: underline;
+    text-decoration-color: #f87171;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+}
+
+/* ----- Legend and Color Key (specific colors) ----- */
+.legend-label {
+    font-weight: bold;
+    color: #c27eff;
+    margin-right: 4px;
+}

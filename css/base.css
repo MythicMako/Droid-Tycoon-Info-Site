@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+    background: #0a0f1e;
+    margin: 0;
+    padding: 20px;
+    color: #eef2ff;
+}
+
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+    background: #111827;
+    border-radius: 32px;
+    box-shadow: 0 20px 35px -10px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+    padding: 20px 24px 32px;
+}
+
+h1 {
+    font-size: 2.2rem;
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+    font-weight: 700;
+    color: #e0b0ff;
+    letter-spacing: 2px;
+    font-family: 'Star Jedi', 'SF Distant Galaxy', 'Aurek', 'ITC Serif Gothic', 'Franklin Gothic Heavy', 'Impact', 'Arial Black', sans-serif;
+    text-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+.sub {
+    color: #9ca3af;
+    border-left: 3px solid #c27eff;
+    padding-left: 12px;
+    margin-bottom: 28px;
+    font-size: 0.95rem;
+}
+
+footer {
+    margin-top: 32px;
+    text-align: center;
+    font-size: 0.75rem;
+    color: #5b6e8c;
+    border-top: 1px solid #1f2a3e;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+
+footer a,
+footer a:link,
+footer a:visited {
+    color: #c27eff;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.15s ease;
+}
+footer a:hover,
+footer a:visited:hover {
+    color: #FBBF24;
+    text-decoration: underline;
+}
+
+footer .update-timestamp {
+    color: #6b7280;
+    font-size: 0.7rem;
+}
