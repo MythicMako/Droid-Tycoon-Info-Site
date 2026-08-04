@@ -124,4 +124,5 @@ function init() {
     });
 }
 
+// Start loading data when the page loads
 loadData();
