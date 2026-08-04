@@ -27,7 +27,9 @@
     { "rb": "25", "droids": "B2-RP | IG | DRFT-R", "vars": ["B","N","G"], "credits": "13.5T" },
     { "rb": "26", "droids": "CYCLENS | LOADLIFTER | RIC-1200", "vars": ["G","D","R"], "credits": "21T" },
     { "rb": "27", "droids": "KX | TRI-TEK | SNOW MOUSE", "vars": ["D","R","B"], "credits": "32T" },
-    { "rb": "28", "droids": "MO-TRAK | DRFT-R | PROTO-ROLLER", "vars": ["R","B","Ga"], "credits": "45T" }
+    { "rb": "28", "droids": "MO-TRAK | DRFT-R | PROTO-ROLLER", "vars": ["R","B","Ga"], "credits": "45T" },
+    { "rb": "29", "droids": "IG | MONO-WLKR | MECHA-DROID", "vars": ["B","Ga","Ga"], "credits": "68T" },
+    { "rb": "30", "droids": "CYCLENS | B2-RP | LOADLIFTER", "vars": ["B","Ga","Ga"], "credits": "100T" }
   ],
   "2": [
     { "rb": "1", "droids": "MOUSE | GONK | ID10", "vars": ["N","N","N"], "credits": "10,000" },
@@ -57,7 +59,9 @@
     { "rb": "25", "droids": "RIC-1200 | TRI-TEK | MONO-WLKR", "vars": ["N","G","B"], "credits": "13.5T" },
     { "rb": "26", "droids": "KX | DRFT-R | IG", "vars": ["G","D","R"], "credits": "21T" },
     { "rb": "27", "droids": "LEP | LOADLIFTER | MO-TRAK", "vars": ["D","R","B"], "credits": "32T" },
-    { "rb": "28", "droids": "SNOW MOUSE | TRI-TEK | MECHA-DROID", "vars": ["R","B","Ga"], "credits": "45T" }
+    { "rb": "28", "droids": "SNOW MOUSE | TRI-TEK | MECHA-DROID", "vars": ["R","B","Ga"], "credits": "45T" },
+    { "rb": "29", "droids": "RIC | CYCLO-GRAV | R7", "vars": ["B","Ga","Ga"], "credits": "68T" },
+    { "rb": "30", "droids": "KX | OPTI-STRK | DRFT-R", "vars": ["B","Ga","Ga"], "credits": "100T" }
   ],
   "3": [
     { "rb": "1", "droids": "MOUSE | PIT | GONK", "vars": ["N","N","N"], "credits": "10,000" },
@@ -87,7 +91,9 @@
     { "rb": "25", "droids": "LOADLIFTER | MO-TRAK | PROTO-ROLLER", "vars": ["N","G","B"], "credits": "13.5T" },
     { "rb": "26", "droids": "LEP | TRI-TEK | SNOW MOUSE", "vars": ["G","D","R"], "credits": "21T" },
     { "rb": "27", "droids": "RIC-1200 | IG | DRFT-R", "vars": ["D","R","B"], "credits": "32T" },
-    { "rb": "28", "droids": "RIC | MO-TRAK | BB9", "vars": ["R","B","Ga"], "credits": "45T" }
+    { "rb": "28", "droids": "RIC | MO-TRAK | BB9", "vars": ["R","B","Ga"], "credits": "45T" },
+    { "rb": "29", "droids": "IG | MECHA-DROID | OPTI-STRK", "vars": ["B","Ga","Ga"], "credits": "68T" },
+    { "rb": "30", "droids": "LEP | R7 | DRFT-R", "vars": ["B","Ga","Ga"], "credits": "100T" }
   ],
   "4": [
     { "rb": "1", "droids": "ID10 | PIT | DRK-1 PROBE", "vars": ["N","N","N"], "credits": "10,000" },
@@ -117,6 +123,8 @@
     { "rb": "25", "droids": "TRI-TEK | DRFT-R | OPTI-STRK", "vars": ["N","G","B"], "credits": "13.5T" },
     { "rb": "26", "droids": "CYCLENS | LEP | MO-TRAK", "vars": ["G","D","R"], "credits": "21T" },
     { "rb": "27", "droids": "RIC-1200 | SNOW MOUSE | LOADLIFTER", "vars": ["D","R","B"], "credits": "32T" },
-    { "rb": "28", "droids": "IG | KX | OPTI-STRK", "vars": ["R","B","Ga"], "credits": "45T" }
+    { "rb": "28", "droids": "IG | KX | OPTI-STRK", "vars": ["R","B","Ga"], "credits": "45T" },
+    { "rb": "29", "droids": "TRI-TEK | R7 | BB9", "vars": ["B","Ga","Ga"], "credits": "68T" },
+    { "rb": "30", "droids": "CYCLENS | MONO-WLKR | IG", "vars": ["B","Ga","Ga"], "credits": "100T" }
   ]
 }
