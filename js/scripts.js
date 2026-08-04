@@ -87,8 +87,14 @@ function generateColumnHtml(rows) {
 function renderCycle(cycleNum) {
     const data = cyclesData[cycleNum];
     if (!data) return;
-    const leftData = data.slice(0, 14);
-    const rightData = data.slice(14);
+    
+    const totalRebirths = data.length;
+    const leftCount = Math.ceil(totalRebirths / 2);
+    const rightCount = Math.floor(totalRebirths / 2);
+    
+    const leftData = data.slice(0, leftCount);
+    const rightData = data.slice(leftCount);
+    
     const leftHtml = generateColumnHtml(leftData);
     const rightHtml = generateColumnHtml(rightData);
     const container = document.getElementById('rebirth-container');
@@ -118,5 +124,4 @@ function init() {
     });
 }
 
-// Start loading data when the page loads
 loadData();
