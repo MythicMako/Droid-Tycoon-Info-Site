@@ -108,7 +108,7 @@
     { "rb": "10", "droids": "TRAK-R | GROUNDMECH | SENATE HOVERCAM", "vars": ["N","N","R"], "credits": "220M" },
     { "rb": "11", "droids": "B2 HEAVY | B2 SUPER | UTIL-TEC", "vars": ["N","N","N"], "credits": "550 Million" },
     { "rb": "12", "droids": "BAL-CORE | GROUNDMECH | TRAK-R", "vars": ["R","G","G"], "credits": "1.36 Billion" },
-    { "rb": "13", "droids": "B2 SUPER | MECHA-DROID | PROTO_ROLLER", "vars": ["R","N","N"], "credits": "3.4B" },
+    { "rb": "13", "droids": "B2 SUPER | MECHA-DROID | PROTO-ROLLER", "vars": ["R","N","N"], "credits": "3.4B" },
     { "rb": "14", "droids": "BAL-CORE | GROUNDMECH | TRAK-R", "vars": ["D","D","R"], "credits": "8.45B" },
     { "rb": "15", "droids": "B2 HEAVY | B2 SUPER | B2-RP", "vars": ["D","R","N"], "credits": "21B" },
     { "rb": "16", "droids": "UTIL-TEC | BB9 | R7", "vars": ["R","N","G"], "credits": "52B" },
