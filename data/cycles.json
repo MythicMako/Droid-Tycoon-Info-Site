@@ -11,7 +11,7 @@
     { "rb": "9", "droids": "GROUNDMECH | R6 | TRAK-R", "vars": ["R","G","G"], "credits": "89M" },
     { "rb": "10", "droids": "LO | HAUL-R | STRIKE-ORB", "vars": ["R","R","G"], "credits": "220M" },
     { "rb": "11", "droids": "AMP WALKER | B1 HEAVY | BB9", "vars": ["R","R","N"], "credits": "550 Million" },
-    { "rb": "12", "droids": "PROTO-ROLLER | MONOWLKR | MECHA-DROID", "vars": ["G","N","N"], "credits": "1.36 Billion" },
+    { "rb": "12", "droids": "PROTO-ROLLER | MONO-WLKR | MECHA-DROID", "vars": ["G","N","N"], "credits": "1.36 Billion" },
     { "rb": "13", "droids": "R7 | CYCLO-GRAV | B2-RP", "vars": ["N","N","N"], "credits": "3.4B" },
     { "rb": "14", "droids": "OPTI-STRK | MONO-WLKR | MECHA-DROID", "vars": ["N","G","G"], "credits": "8.45B" },
     { "rb": "15", "droids": "B2-RP | BB9 | R7", "vars": ["G","G","G"], "credits": "21B" },
