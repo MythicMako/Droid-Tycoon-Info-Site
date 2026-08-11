@@ -97,7 +97,7 @@
   ],
   "4": [
     { "rb": "1", "droids": "ID10 | PIT | DRK-1 PROBE", "vars": ["N","N","N"], "credits": "10,000" },
-    { "rb": "2", "droids": "B1 BATTLE? | 2BB | SENATE HOVERCAM", "vars": ["N","N","N"], "credits": "150,000" },
+    { "rb": "2", "droids": "B1 BATTLE | 2BB | SENATE HOVERCAM", "vars": ["N","N","N"], "credits": "150,000" },
     { "rb": "3", "droids": "R4 | R5 | R8", "vars": ["N","G","G"], "credits": "975,000" },
     { "rb": "4", "droids": "R9 | B1 BATTLE | B1 SECURITY", "vars": ["G","G","G"], "credits": "2.95 Million" },
     { "rb": "5", "droids": "2BB | R3 | SENATE HOVERCAM", "vars": ["G","G","G"], "credits": "5.35M" },
